@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://github.com/foflores10/CodingPractice">
-		<img src="./images/coding_practice.png" alt="Logo" width="80" height="80">
+		<img src="media/icon.png">
 	</a>
 	<h3>Coding Practice</h3>
 </div>
@@ -11,4 +11,4 @@ In order to keep improving my software engineering skills, I *try* to work on le
 
 ## Links
 
-[Leetcode Profile](https://leetcode.com/foflores10/)
+[Leetcode](https://leetcode.com/foflores10/)
