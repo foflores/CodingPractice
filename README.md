@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://github.com/foflores10/CodingPractice">
-		<img src="media/icon.png">
+		<img src="https://media.foflores.com/projects/codingpractice/icon.png" width=128>
 	</a>
 	<h3>Coding Practice</h3>
 </div>
