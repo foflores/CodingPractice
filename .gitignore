@@ -1,0 +1,130 @@
+###################
+## Project Settings
+###################
+
+
+
+###################
+## Global Settings
+###################
+
+# Build results
+**/[Dd]ebug/
+**/[Dd]ebugPublic/
+**/[Rr]elease/
+**/[Rr]eleases/
+**/x64/
+**/x86/
+**/[Ww][Ii][Nn]32/
+**/[Aa][Rr][Mm]/
+**/[Aa][Rr][Mm]64/
+**/bld/
+**/[Bb]in/
+**/[Oo]bj/
+**/[Ll]og/
+**/[Ll]ogs/
+**/[Pp]ublish/
+**/[Cc]lient[Bb]in/
+**/[Bb]uild/
+
+# MSTest test Results
+**/[Tt]est[Rr]esult*/
+**/[Bb]uild[Ll]og.*
+
+# Benchmark Results
+**/BenchmarkDotNet.Artifacts/
+
+# .NET
+**/project.lock.json
+**/project.fragment.lock.json
+**/artifacts/
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+*.[Cc]ache
+!?*.[Cc]ache/
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+# Others
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
+# Node.js
+.ntvs_analysis.dat
+**/node_modules/
+
+# Python
+**/__pycache__/
+*.pyc
+
+# MSBuild Binary and Structured Log
+*.binlog
+
+# MacOS
+**/*.dmg
+**/*.app
+**/.DS_Store
+**/.AppleDouble
+**/.LSOverride
+**/.CFUserTextEncoding
+
+# Volume files
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Environment
+**/[Ee]nv/
+
+# Secrets
+**/[Ss]ecrets/
